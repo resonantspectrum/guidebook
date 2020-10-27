@@ -103,7 +103,7 @@ A chapter consists of several parts:
 Finally, we're collecting stories from practitioners of the open source way, stories we know tend to illustrate more than one principle in action.
 Stories not interspersed into chapters will be collected at the end (for your endless uses).
 
-=== A community of practice always rebuilidng itself
+=== A community of practice always rebuilding itself
 
 What you are reading here is just one facet of the growing body of principles, implementations, and examples that this community is gathering, cultivating, and maintaining.
 
