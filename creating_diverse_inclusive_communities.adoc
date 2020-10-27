@@ -1,8 +1,8 @@
-= Creating diverse and inclusive communities
+== Creating diverse and inclusive communities
 Authors: Lauren Maffeo
 Updated: 2020-07-19
 
-== Introduction
+=== Introduction
 
 Mere months after the COVID-19 pandemic forced most tech teams to work remotely or not at all, the murder of George Floyd ignited a racial reconciliation movement.
 This movement hit the tech sector especially hard. When Pinterest released a statement supporting the Black Lives Matter movement, two Black women who formerly worked there quickly called out their hypocrisy.
@@ -17,7 +17,7 @@ And when data show who contributes to the open source ecosystem, they paint a da
 This chapter offers an overview of open source communities' efforts to make projects more diverse and inclusive.
 It also offers initial steps open source community managers and project maintainers can take to begin building communities and projects that benefit from a diverse contributor base.
 
-== The state of open source diversity
+=== The state of open source diversity
 
 In 2019, the U.S. Bureau of Labor Statistics found that 28.7% of total employed managers in the "Computer and Information Systems" sector https://www.bls.gov/cps/cpsaat11.htm[were women].
 Of the total employed, 9.6% were Black or African American, 15.8% were Asian, and and 4.7% were Hispanic or Latino.
@@ -38,7 +38,7 @@ Relative lack of open source activity from women and under-represented minoritie
 
 Let's unpack three of those barriers: lack of free time to contribute, a hostile online environment, and lackluster documentation.
 
-=== Lack of time to contribute for free
+==== Lack of time to contribute for free
 
 Women and URMs continue https://www.weforum.org/agenda/2019/03/an-economist-explains-why-women-get-paid-less/[to earn less] than White men for performing the same professional roles.
 They are also increasingly likely to be their homes' primary earners, and they're more likely to do unpaid labor in the form of housework, childcare, and https://www.unwomen.org/en/news/in-focus/csw61/redistribute-unpaid-work[other domestic tasks].
@@ -58,7 +58,7 @@ ____
 "As a woman in tech contributing to open source in my day job and getting compensated for it, I find that I still don't have the time to contribute to open source projects I am personally interested in or even volunteer for my local open source communities because I need to also take care of my child and household."
 ____
 
-=== A hostile online environment
+==== A hostile online environment
 
 The Internet is not an equally hospitable place.
 Women, people of color, and LBGTQ+ people are disproportionately targeted for online harassment, with women twice as likely to https://hbr.org/2020/06/youre-not-powerless-in-the-face-of-online-harassment[experience online sexual harassment] as men.
@@ -80,7 +80,7 @@ With the odds of such behavior that much higher for minorities, it's surprising 
 "Any time that I spend contributing to [open source] is time I could also be spending volunteering to advance LGBTQ equality, fighting against police brutality, and other issues that I care about, and that disproportionally affect underrepresented people—in fact, it's what makes us underrepresented in the first place," explains Perry Eising (He/They), who works as a community manager at a for-profit tech company that hosts open source projects.
 "It's challenging to justify to myself to spend time being involved in (sometimes hostile feeling) OS and tech debates when I have so many causes that require my attention and efforts."
 
-=== Incomplete, inadequate documentation
+==== Incomplete, inadequate documentation
 
 The barriers above manifest in perhaps the biggest of all: open source projects' lack of documentation.
 Quantitative data and qualitative interviews repeatedly share that most open source projects don't prioritize or reward documentation.
@@ -111,7 +111,7 @@ For prospective contributors who are non-native English speakers and/or have spe
 Inadequate documentation has far-reaching consequences.
 It shows a lack of transparency that wastes time, sows distrust, and prevents many open source communities from reaching their full potential.
 
-== Tips to build more inclusive projects and communities
+=== Tips to build more inclusive projects and communities
 
 Despite these barriers to entry, there's good news for maintainers: You hold enormous power to improve your project's culture by making it more inclusive.
 Community members, especially those of minority status, have discussed the lack of diversity and inclusion for years.
@@ -124,7 +124,7 @@ If creating an inclusive community sounds overwhelming, remember that the commun
 If you're a project maintainer yourself, you don't have to do this work alone.
 In fact, taking the steps below with a trusted team will help improve your project for all.
 
-=== 1. Stop saying you're a meritocracy
+==== 1. Stop saying you're a meritocracy
 
 The first step to a more inclusive open source project involves bursting the meritocracy bubble: The more you believe in meritocracy, the more biased your project is https://www2.deloitte.com/au/en/blog/diversity-inclusion-blog/2019/meritocracy-unraveling-paradox.html[likely to be].
 
@@ -145,7 +145,7 @@ Sitting with and reflecting on this fact is the first, most crucial step.
 The next step is to take an honest look at your project's current community, and take note of who is—and isn't—there.
 If your project contributors all, or even mostly, look like you, that's a huge red flag that an inclusive overhaul is in order. 
 
-=== 2. Prioritize your project's documentation
+==== 2. Prioritize your project's documentation
 
 A 2019 Stack Overflow study found that about 41% of developers have less than five years of experience.
 Between these young technologists and current emphasis on STEM education, there are lots of opportunities to welcome new OS contributors.
@@ -160,7 +160,7 @@ To track progress, the SIG Docs group does a quarterly review where they measure
 One of their community rules centers on ownership: In order to adopt a goal, a project needs a specific person willing to drive it.
 That creates even more onus on contributors to find new contributors. 
 
-=== 3. Create and enforce a clear Code of Conduct
+==== 3. Create and enforce a clear Code of Conduct
 
 If your project doesn't already have a Code of Conduct (CoC), it's never too late to make one (see this guidebook's chapter on governance for tips of getting started).
 They are an expectation for modern open source initiatives, from long-term projects to two-day conferences.
@@ -189,7 +189,7 @@ It's essential for all community members—especially URMs—to see that project
 That person won't trust you again to think about your needs appropriately.
 Organizations need to look within and really assess before making a reach out."
 
-=== 4. Reward contributions beyond code
+==== 4. Reward contributions beyond code
 
 In her time working on open source, Sanchez says that most projects focus on attracting a narrow set of contributors: Engineering, Design, Translation, Documentation, and Outreach. Despite how broad that sounds, she'd like to see a lot more roles and contributions be rewarded:
 
@@ -235,7 +235,7 @@ In more than two decades of open source work, she has seen how ignoring crucial 
 Foundations like the Apache Software Foundation, Linux Foundation bring all of these contributions to the table for their hosted projects.
 This allows the project to more successfully build a broader ecosystem."
 
-=== 5. Mentor new talent to grow and lead the project
+==== 5. Mentor new talent to grow and lead the project
 
 Eleven years after co-founding Redis, Salvatore Sanfilippo announced plans to step down as project maintainer of the NoSQL database.
 He named Yossi Gottlieb and Oran Agra as his successors to maintain the Redis project.
@@ -277,7 +277,7 @@ Make sure that there’s a chat tool specifically for community interactions. In
 Connect through events. Events provide a powerful opportunity for you to connect with potential mentees. At these events, try to plan fun activities that are designed to help people connect informally. This may mean having a people-bingo where people have to ask each other questions to enter a raffle, or it could be a city tour, or a game night. Fun activities throughout the year can facilitate authentic relationships, which can also help people overcome fear of contribution.
 ____
 
-=== 6. Commit to continuous improvement
+==== 6. Commit to continuous improvement
 
 The work of inclusion is never done.
 It's ongoing.

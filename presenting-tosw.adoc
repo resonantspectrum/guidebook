@@ -1,4 +1,4 @@
-= Presenting The Open Source Way
+== Presenting The Open Source Way
 Author: Karsten Wade <quaid@iquaid.org>
 Updated: 2020-10-27
 
@@ -25,7 +25,7 @@ In particular, this guide is a living document that endeavors to gather and spre
 
 These voices are all part of https://theopensourcway.org[this community of practice around open source software community management].
 
-== The shape of things, i.e., assumptions we are making
+=== The shape of things, i.e., assumptions we are making
 
 When you look at the table of contents for this guide, notice how the flow of focus goes from the user, to the participant, to the contributor.
 
@@ -46,7 +46,7 @@ When you lower barriers to participation, you make your project welcoming at all
 This doesn't mean you _remove all barriers_—just lower most of them appropriately.
 Appropriate barriers are necessary for someone receiving keys to systems, for example, and these barriers are different from those allowing only certain participants to contribute a help article or a patch to the configuration management system.
 
-=== Our core opinion
+==== Our core opinion
 
 There is an opinion at the core of this work, that explains how the content is laid out, how the steps on the path revealed so that you can find yourself wherever you are in your journey of open source practice.
 
@@ -81,7 +81,7 @@ We also list some specific areas to be careful of and watch out for, including a
 Our best way of more-deeply conveying all this information is with stories.
 Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in https://theopensourceway[The Open Source Way community] to gather all these stories of why. 
 
-== Structure of this guide
+=== Structure of this guide
 
 Each section of this guide consists of one or more chapters.
  
@@ -103,7 +103,7 @@ A chapter consists of several parts:
 Finally, we're collecting stories from practitioners of the open source way, stories we know tend to illustrate more than one principle in action.
 Stories not interspersed into chapters will be collected at the end (for your endless uses).
 
-== A community of practice always rebuilidng itself
+=== A community of practice always rebuilidng itself
 
 What you are reading here is just one facet of the growing body of principles, implementations, and examples that this community is gathering, cultivating, and maintaining.
 
