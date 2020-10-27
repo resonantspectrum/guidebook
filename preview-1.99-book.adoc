@@ -1,4 +1,7 @@
 = T H E   O P E N   S O U R C E   W A Y   2 . 0
+Contributors <contrib@theopensourceway.org>
+v1.99, 2020-10-31
+:toc: right
 
 PREVIEW RELEASE
 TEST BUILD
