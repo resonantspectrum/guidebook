@@ -467,7 +467,7 @@ Projects that grow larger and more popular, become commercially adopted, or are 
 
 We'll talk about these eight documents below.
 
-==== Developing a code of conduct
+===== Developing a code of conduct
 
 Creating a code of conduct (CoC) for your open source community is one of the simplest and most powerful ways to begin influencing the project's governance model.
 A code of conduct is a description of expectations for community members' behavior when they act within or on behalf of the project.
@@ -554,6 +554,7 @@ It's expected that most of it will be technical instructions.
 Just don't neglect the _who_ and _why_ along with the _how_.
 
 ===== Security issue reporting and handling
+
 Once your project's code is being used in production by external users, managing security issue reports becomes a critical priority.
 While this topic could use an entire chapter on its own, there is some basic governance setup associated with handling security issues.
 This will include:
