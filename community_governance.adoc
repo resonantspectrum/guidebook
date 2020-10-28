@@ -443,7 +443,7 @@ Having a set of written duties helps immensely when your leadership team has to 
 If your project is trying to recruit new/additional Leaders, then it's also important to have a detailed set of qualifications a Leader needs to meet.
 Contrary to some expectations, having detailed qualifications gives people who want to move up in the project a target to shoot for.
 
-== Setting policies and procedures
+=== Setting policies and procedures
 
 In addition to some basic role documentation, there's a certain amount of basic paperwork that each project should create for itself.
 These _policy and procedure_ (P&P) documents are considered a kind of minimum for what you need in order to grow and mature a project.
@@ -467,7 +467,7 @@ Projects that grow larger and more popular, become commercially adopted, or are 
 
 We'll talk about these eight documents below.
 
-===== Developing a code of conduct
+==== Developing a code of conduct
 
 Creating a code of conduct (CoC) for your open source community is one of the simplest and most powerful ways to begin influencing the project's governance model.
 A code of conduct is a description of expectations for community members' behavior when they act within or on behalf of the project.
@@ -553,8 +553,7 @@ This document will also have lots of non-governance content, like the locations 
 It's expected that most of it will be technical instructions.
 Just don't neglect the _who_ and _why_ along with the _how_.
 
-===== Security issue reporting & handling
-
+===== Security issue reporting and handling
 Once your project's code is being used in production by external users, managing security issue reports becomes a critical priority.
 While this topic could use an entire chapter on its own, there is some basic governance setup associated with handling security issues.
 This will include:
